@@ -54,32 +54,6 @@ A Streamlit web application is included to allow users to input property details
 
 ---
 
-## Project Structure
-real_estate_price_prediction/
-│
-├── app.py
-├── main.py
-├── requirements.txt
-├── README.md
-├── final.csv
-├── .gitignore
-│
-├── models/
-├── logs/
-├── outputs/
-│
-└── src/
-├── init.py
-├── logger.py
-├── data_loader.py
-├── preprocessing.py
-├── train_model.py
-├── evaluate.py
-└── predict.py
-
-
----
-
 ### Installation
 
 Clone the repository and install dependencies:
